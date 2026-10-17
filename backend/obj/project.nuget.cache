@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3OwnUYfci0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wbmus\\source\\repos\\OgrenciAPI\\OgrenciAPI\\OgrenciAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wbmus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\wbmus\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
